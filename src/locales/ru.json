@@ -1,0 +1,79 @@
+{
+	"AddDescription": "Введите описание к записи",
+	"AddCategory": "Добавить новую категорию",
+	"Amount": "Сумма",
+	"Account": "Аккаунт",
+	"Agreement": "Согласен с правилами",
+	"AlreadyHaveAccount": "Уже есть аккаунт?",
+
+	"Back": "Назад",
+
+	"Currency":"Валюта",
+	"Create": "Создать",
+	"Category": "Категория",
+	"ChooseCategory": "Выберите категорию",
+	"CurrencyAccount": "Бюджет",
+	"CreateNewRecord": "Добавить новую запись",
+	"Capital": "Стартовый капитал",
+
+	"Details": "Details",
+	"Date": "Дата",
+	"Description": "Описание",
+
+	"EnterYourName": "Введите ваше имя",
+	"EnterCatName": "Введите заголовок категории",
+	"EnterEmail": "Введите ваш e-mail",
+	"EnterPass": "Введите пароль",
+	"ExchangeRates": "Курс валют",
+	"Exceeded": "Превышает на",
+	"Edit": "Редактировать",
+	"Enter": "Войти",
+
+	"From": "из",
+	"Forward": "Вперед",
+
+	"Here": "тут",
+	"HomeAccounting": "Домашняя бухгалтерия",
+
+	"InvalidEmail": "Введите e-mail корректно",
+	"Income": "Доход",
+
+	"Login": "Авторизация",
+	"Left": "Осталось",
+	"Limit": "Лимит",
+	"Logout": "Выйти",
+	
+	"Menu_Main": "Главная",
+	"Menu_History": "История",
+	"Menu_Planning": "Планирование",
+	"Menu_AddRecord": "Добавить новую запись",
+	"Menu_AddCategory": "Добавить категорию",
+	"MinValue": "Недопустимое минимальное значение",
+
+	"NoRecords": "Записей пока нет. Вы можете добавить запись ",
+	"NoCategories": "Категорий пока нет. Вы можеет добавить категорию ",
+	"NoAccount": "Все еще нет аккаунта?",
+	"Name": "Имя",
+
+	"Outcome": "Расход",
+	"OpenRecord": "Посмотреть запись",
+
+	"ProfileTitle": "Профиль",
+	"Password": "Пароль",
+
+	"Rate": "Курс",
+	"RecordHistory": "История записей",
+	"Registrate": "Зарегистрироваться",
+	"Registration": "Регистрация",
+
+	"SuccessRec": "Запись была успешно добавлена",
+	"SuccessCat": "Категория была успешно добавлена",
+	"Symbols": "символов",
+	"SymbolsLimit": "Пароль должен быть больше чем ",
+
+	"Type": "Тип",
+	"Title": "Заголовок",
+	
+	"Update": "Обновить",
+	"UserRegistration": "Регистрация пользователя"
+}

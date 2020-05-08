@@ -1,0 +1,79 @@
+{
+	"AddDescription": "Add description to record",
+	"AddCategory": "Add new category",
+	"Amount": "Amount",
+	"Account": "Account",
+	"Agreement": "Agree with the rules",
+	"AlreadyHaveAccount": "Already have account?",
+
+	"Back": "Back",
+
+	"Currency":"Currency",
+	"Create": "Create",
+	"Category": "Category",
+	"ChooseCategory": "Choose category",
+	"CurrencyAccount": "Budget",
+	"CreateNewRecord": "Create new record",
+	"Capital": "Start-up capital",
+
+	"Details": "Details",
+	"Date": "Date",
+	"Description": "Description",
+
+	"EnterYourName": "Enter your name",
+	"EnterCatName": "Enter category name",
+	"EnterEmail": "Enter your e-mail",
+	"EnterPass": "Enter password",
+	"ExchangeRates": "Exchange Rates",
+	"Exceeded": "Exceeded by",
+	"Edit": "Edit",
+	"Enter": "Enter",
+
+	"From": "from",
+	"Forward": "Forward",
+
+	"Here": "Here",
+	"HomeAccounting": "Home accounting",
+
+	"InvalidEmail": "Invalid e-mail",
+	"Income": "Income",
+
+	"Login": "Login",
+	"Left": "Left",
+	"Limit": "Limit",
+	"Logout": "Logout",
+	
+	"Menu_Main": "Main",
+	"Menu_History": "History",
+	"Menu_Planning": "Planning",
+	"Menu_AddRecord": "Add new record",
+	"Menu_AddCategory": "Add category",
+	"MinValue": "Invalid minimum value",
+
+	"NoRecords": "No records yet. You can add your first record ",
+	"NoCategories": "No category yet. You can add a new category ",
+	"NoAccount": "Still doesn't have account?",
+	"Name": "Name",
+
+	"Outcome": "Outcome",
+	"OpenRecord": "Open record",
+
+	"ProfileTitle": "Profile",
+	"Password": "Password",
+
+	"Rate": "Rate",
+	"RecordHistory": "Record History",
+	"Registrate": "Registrate",
+	"Registration": "Registration",
+
+	"SuccessRec": "Record was successfully added",
+	"SuccessCat": "Category was successfully added",
+	"Symbols": "symbols",
+	"SymbolsLimit": "Password should have more than ",
+
+	"Type": "Type",
+	"Title": "Title",
+	
+	"Update": "Update",
+	"UserRegistration": "User registration"
+}
